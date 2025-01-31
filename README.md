@@ -1,16 +1,30 @@
-## Hi there 👋
+👋 Hey, I'm Isaac!
+🎓 2nd Year Computer Science Student
+📅 Age: 16
+💻 Passionate about Coding, Tech, and Problem-Solving
+🎥 Anime Fan | Tech Enthusiast | Always Learning
 
-<!--
-**voidIsaacc/voidIsaacc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+Currently in my 2nd year || Computer Science degree 🚀
+I love coding, solving problems, and building cool projects
+Big fan of anime, music, tech, travel and open-source🔥
+Exploring AI, Web Dev, and Cybersecurity
+Learning new things every day!
 
-Here are some ideas to get you started:
+🛠️ Tech Stack
+🔹 Languages: Python, Java
+🔹 Web Development: HTML, CSS, JavaScript, React, TailwindCSS, TypeScript
+🔹 Other Tools: Git, Linux, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Currently Learning
+Data Structures & Algorithms
+Backend Development
+Exploring Cybersecurity
+
+🎬 Favorite Anime & Hobbies
+Love watching anime (Attack on Titan, Demon Slayer, Death Note)
+Enjoy watching travelling videos 🌍
+Interested in Cybersecurity and ethical hacking 🛡️
+
+📫 Let's Connect!
+💼 LinkedIn: COMING SOON
